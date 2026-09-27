@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "strict": true },
+  "include": ["src/Lab6.tsx", "src/lab6Protocol.ts", "src/speech.ts", "src/lab11TextBuffer.ts", "src/lab11Scenarios.ts", "src/lab12Timeline.ts", "src/lab12Scenarios.ts", "src/lab13Recovery.ts", "src/lab13Scenarios.ts", "src/lab14Controls.ts", "src/lab14Scenarios.ts", "src/lab15Usage.ts", "src/lab15Scenarios.ts", "src/lab16Tool.ts", "src/lab16Scenarios.ts", "src/lab17Action.ts", "src/lab17Scenarios.ts"]
+}
